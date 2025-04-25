@@ -5,6 +5,10 @@ namespace WinFormsApp2
         public Form1()
         {
             InitializeComponent();
+
+            MessageBox.Show("Hi I'm hyunsu");
+
+            textbox_.Text = "goodmorning\r\neveryone";
         }
     }
 }
