@@ -7,6 +7,7 @@ namespace WinFormsApp2
             InitializeComponent();
 
             MessageBox.Show("Hi I'm hyunsu");
+            MessageBox.Show("Hi I'm HH");
 
             textbox_.Text = @"goodmorning goodbye;
         }
