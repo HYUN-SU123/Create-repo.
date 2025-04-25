@@ -8,7 +8,7 @@ namespace WinFormsApp2
 
             MessageBox.Show("Hi I'm hyunsu");
 
-            textbox_.Text = "goodmorning\r\neveryone";
+            textbox_.Text = @"goodmorning goodbye;
         }
     }
 }
